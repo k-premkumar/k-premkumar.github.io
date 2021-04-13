@@ -1,0 +1,29 @@
+# jemdoc: menu{MENU}{figures_plots.html}, showsource
+= Figures/Plots 
+
+== Figures
+Figures play an important role in illustrating and understanding 
+concepts/systems. Hence, one should use a good software for drawing 
+figures. I recommend [http://www.inkscape.org inkscape], which is
+used to produce scalable vector graphics pictures.
+
+    
+== Plots
+Engineering results need to be plotted for performance analysis and 
+design. I recommend [http://pgfplots.sourceforge.net/ 
+PGFPlots (or PGF/TikZ)] and [http://www.gnuplot.info gnuplot] (see, e.g., 
+[gnuplot_script_example.plt]), if you are a open source enthusiast, 
+or [http://www.mathworks.com/products/matlab Matlab].
+
+*Note:*
+- {{<font color="red">Generate figures and plots in all the following formats: .eps, .pdf, and .jpg</font>}}   
+  as you will need .eps and .pdf for LaTeX documents
+  and .jpg for PowerPoint presentations. 
+- To convert images from one format to another, there exist 
+  softwares like [http://www.gimp.org/ GIMP], [http://www.inkscape.org inkscape].
+  
+
+
+
+
+

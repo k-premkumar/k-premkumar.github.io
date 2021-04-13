@@ -1,0 +1,54 @@
+# jemdoc: menu{MENU}{latex.html}, showsource
+= LaTeX for Preparing Documents and Presentations 
+
+LaTeX is a package for professional and scientific documentation. Using 
+LaTeX, one can obtain documents in pdf format. There are many LaTeX 
+softwares available (e.g., TexLive, MikTex). I recommend 
+[http://www.tug.org/texlive/ TexLive] for all systems (Linux, MAC and 
+Windows). 
+
+For preparing a document using LaTeX, in general, it is advisable to use 
+a predefined template (also called style file) which is a .cls or a .sty 
+file that provides a layout or style of the document; for example, IEEE 
+provides a template for all of its journal publications (see 
+[http://www.ieee.org/publications_standards/publications/authors/authors_journals.html 
+Template for Transactions]). One can use the IEEE template, and modify 
+the bare_jrnl.tex (or bare_conf.tex) file to make a document. 
+
+
+== Steps involved in preparing a document using LaTeX
+. Create <file_name>.tex\n using a text editor. 
+. pdflatex <file_name>\n 
+  This step is called compiling the tex file. This produces 
+  <file_name>.pdf.
+
+*Note:*
+- {{<font color="red">Make sure that there are no ''important'' warnings 
+  in the .log file after compilation.</font>}} Because, some warnings 
+  are serious in the sense that they alter the (look and feel, and the) 
+  sense of the document.      
+- If there are cross-references (when you use figures, plots, tables 
+  etc), {{<font color="red">do Step 2 (i.e., compilation) twice.</font>}}    
+- If there is a separate .bib file for references {{<font color="red">do 
+  Step 2 (i.e., compilation) twice, followed by</font>}} bibtex 
+  <file_name>, {{<font color="red">and again Step 2 twice.</font>}}    
+- One can use an integrated development environment (IDE) for preparing 
+  the .tex and .bib files, and for compiling. I recommend the following 
+  IDE: [http://www.xm1math.net/texmaker/ Texmaker].  
+
+
+== Beamer
+  Use [http://en.wikipedia.org/wiki/Beamer_(LaTeX) Beamer] for beautiful presentations using LaTeX and Beamer.
+
+== LaTeX Resources 
+- [http://tobi.oetiker.ch/lshort/lshort.pdf The Not So Short Introduction to LaTeX 2e]  
+- [http://amath.colorado.edu/documentation/LaTeX/Symbols.pdf Math Symbols] 
+- [http://www.tex.ac.uk/tex-archive/info/symbols/comprehensive/symbols-a4.pdf List of Symbols]
+- [ftp://ftp.ams.org/ams/doc/amsmath/short-math-guide.pdf Short Math Guide for LaTeX]
+
+
+
+
+
+
+

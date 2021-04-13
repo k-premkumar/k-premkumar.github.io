@@ -1,0 +1,21 @@
+# jemdoc: menu{MENU}{numerical_tools.html}, showsource
+= Numerical Packages for Engineering Computations
+
+== Open Source Softwares 
+- [http://www.sagemath.org Sage]
+- [http://www.gnu.org/software/gsl/ GSL]
+- [http://www.netlib.org/lapack LAPACK]
+- [http://www.nsnam.org ns-3]
+- [http://pcl.cs.ucla.edu/projects/glomosim/ GloMoSim]
+
+== Licensed Softwares 
+- [http://www.wolfram.com/mathematica/ Mathematica]
+- [http://www.mathworks.com/products/matlab MATLAB]
+- [http://www.opnet.com OPNET]
+
+
+
+
+
+
+

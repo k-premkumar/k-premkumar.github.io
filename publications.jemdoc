@@ -1,0 +1,227 @@
+# jemdoc: menu{MENU}{publications.html}, showsource
+= [index.html K. Premkumar] - Publications 
+
+*Citations of my publications*
+(ref: [http://scholar.google.com/citations?hl=en&user=oErU-FIAAAAJ Google Scholar]) 
+- My h-index: 6 \n 
+- My i10-index: 4 \n
+- Total citations: 106 \n
+
+
+== Journal Publications
+
+
+\[J09\] 
+[index.html K. Premkumar], Xiaomin Chen, and Douglas J. Leith, 
+\<span style=\"color: OrangeRed\"\>
+Utility Optimal Coding for  Networks of Binary Symmetric Channels\<\/span\>, 
+in preparation.
+
+\[J08\] 
+[index.html K. Premkumar], Xiaomin Chen, and Douglas J. Leith, 
+\<span style=\"color: OrangeRed\"\>
+Proportional Fair Coding for Wireless Mesh Networks\<\/span\>, 
+under review, IEEE\/ACM Transactions on Networking (submitted Dec. 2011)
+[http://arxiv.org/abs/1201.3723 \[arXiv\]].
+
+\[J07\] 
+[index.html K. Premkumar], Anurag Kumar, and 
+Venugopal V. Veeravalli, 
+\<span style=\"color: OrangeRed\"\>
+Bayesian Quickest Transient Change Detection\<\/span\>, 
+in preparation.
+
+\[J06\] 
+[index.html K. Premkumar], Anurag Kumar, and Joy Kuri, 
+\<span style=\"color: OrangeRed\"\>
+Distributed Detection\/Isolation Procedures for Quickest 
+Event Detection in Large Extent Wireless Sensor Networks\<\/span\>, 
+under review, IEEE Transactions on Signal Processing (submitted 
+Mar. 2011) [http://arxiv.org/abs/1105.6061 \[arXiv\]].
+
+\[J05\] 
+[index.html K. Premkumar] and Anurag Kumar, 
+\<span style=\"color: OrangeRed\"\>
+Optimum Sleep-Wake Scheduling of Sensors for Quickest Event 
+Detection in Small Extent Wireless Sensor Networks\<\/span\>, 
+under review, IEEE\/ACM Transactions on Networking (submitted 
+Feb. 2011) [http://arxiv.org/abs/1105.6024 \[arXiv\]].
+
+\[J04\] 
+[index.html K. Premkumar], Venkata K.  Prasanthi, and Anurag Kumar, 
+\<span style=\"color: OrangeRed\"\>
+Delay Optimal Event Detection on Ad Hoc Wireless Sensor Networks\<\/span\>, 
+ACM Transactions on Sensor Networks, Vol. 8, No. 2, Mar. 2012 
+[jl003_premkumar_prasanthi_kumar12sequential_change_detection_over_networks.pdf
+\[pdf\]].
+
+\[J03\] 
+WSN Project Team, 
+\<span style=\"color: OrangeRed\"\>
+Wireless Sensor Networks for Human Intruder Detection\<\/span\>, 
+Journal of the Indian Institute of Science, Special issue on 
+Advances in Electrical Science, Vol. 90, No. 3, Jul. - Sep. 2010 
+(invited) [iisc_journal_invited.pdf \[pdf\]].
+
+\[J02\] 
+V. Sharma, [index.html K. Premkumar], and Raghava N. Swamy, 
+\<span style=\"color: OrangeRed\"\>
+Exponential Diversity Achieving Spatio-Temporal Power Allocation Scheme 
+for Fading Channels\<\/span\>, 
+IEEE Transactions on Information Theory, Vol. 54, No. 1, Jan. 2008 
+[jl002_sharma_premkumar_swamy08exponential_diversity.pdf \[pdf\]].
+
+~~~
+A technical report of this article: 
+[index.html K. Premkumar], Vinod Sharma, and Arun Rangarajan, 
+\<span style=\"color: OrangeRed\"\>
+Exponential Diversity Achieving Spatio-Temporal Power Allocation 
+Scheme for Fading Channels\<\/span\>, Apr. 2004  
+[tr001_premkumar_etal04exponential_diversity_report.pdf \[pdf\]].
+~~~
+
+\[J01\] 
+[index.html K. Premkumar], and A. Chockalingam, 
+\<span style=\"color: OrangeRed\"\>
+Performance Analysis of RLC\/MAC and LLC Layers in GPRS Protocol Stack\<\/span\>, 
+IEEE Transactions on Vehicular Technology, Vol. 53, No. 5, Sep. 2004  
+[jl001_premkumar_chockalingam04performance_analysis_rlc_llc_gprs.pdf \[pdf\]].
+
+
+== Conference Publications
+
+\[C13\] 
+[index.html K. Premkumar], Xiaomin Chen, and Douglas J. Leith, 
+\<span style=\"color: OrangeRed\"\>
+Utility Optimal Coding for Packet Transmission over Wireless 
+Networks - Part II: Networks of Packet Erasure Channels\<\/span\>, 
+Forty-Ninth Annual Allerton Conference on Communication, Control, 
+and Computing, Monticello, IL, USA, Sep. 2011 
+[http://arxiv.org/abs/1107.1890 \[arXiv\]].
+
+\[C12\] 
+[index.html K. Premkumar], Xiaomin Chen, and Douglas J. Leith, 
+\<span style=\"color: OrangeRed\"\>
+Utility Optimal Coding for Packet Transmission over Wireless 
+Networks - Part I: Networks of Binary Symmetric Channels\<\/span\>, 
+Forty-Ninth Annual Allerton Conference on Communication, Control, 
+and Computing, Monticello, IL, USA, Sep. 2011 
+[http://arxiv.org/abs/1107.1886 \[arXiv\]].
+
+\[C11\] 
+[index.html K. Premkumar], Venkata K. Prasanthi, and Anurag Kumar, 
+\<span style=\"color: OrangeRed\"\>
+Delay Optimal Event Detection on Ad Hoc Wireless Sensor Networks\<\/span\>, 
+Forty-Eighth Annual Allerton Conference on Communication, Control, and 
+Computing, Monticello, IL, USA, Sep. - Oct. 2010 (invited) 
+[ic007.premkumar_prasanthi_kumar.2010.allerton.cdp_over_networks.pdf 
+\[pdf\]].
+
+\[C10\] 
+[index.html K. Premkumar], Anurag Kumar, and Venugopal V. Veeravalli, 
+\<span style=\"color: OrangeRed\"\>
+Bayesian Quickest Transient Change Detection\<\/span\>, 
+5th International Workshop in Applied Probability (IWAP), 
+Madrid, Spain, Jul. 2010 (invited) 
+[ic006_premkumar_etal10transient_change_detection.pdf \[pdf\]].
+
+\[C09\] 
+[index.html K. Premkumar], Anurag Kumar, and Joy Kuri, 
+\<span style=\"color: OrangeRed\"\>
+Distributed Detection and Localization of Events in Large Ad Hoc 
+Wireless Sensor Networks\<\/span\>, Forty-Seventh Annual Allerton 
+Conference on Communication, Control, and Computing, Monticello, IL, 
+USA, Sep. - Oct. 2009
+[ic005_premkumar_etal09distributed_detection_isolation_in_large_wsn.pdf 
+\[pdf\]]. 
+
+\[C08\] 
+M. M. Nadgir, [index.html K. Premkumar], Anurag Kumar, and Joy Kuri, 
+\<span style=\"color: OrangeRed\"\>
+CUSUM Based Distributed Detection in WSNs\<\/span\>, 
+Managing Complexity in a Distributed World (MCDES), an IISc 
+Centenary conference, Bangalore, India, May 2008
+[nc003_nadgir_etal08distributed_detection_using_cusum.pdf \[pdf\]]. 
+
+\[C07\] 
+[index.html K. Premkumar] and Anurag Kumar, 
+\<span style=\"color: OrangeRed\"\>
+Optimal Sleep\/Wake Scheduling for Quickest Intrusion Detection Using 
+Sensor Networks\<\/span\>, IEEE INFOCOM, Arizona, USA, Apr. 2008 
+(acceptance rate: 236/1152 = 20.5%)
+[ic004_premkumar_kumar08sleep_wake_scheduling_and_intrusion_detection.pdf 
+\[pdf\]]. 
+
+\[C06\] 
+[index.html K. Premkumar] and Anurag Kumar, 
+\<span style=\"color: OrangeRed\"\>
+Optimum Association of Mobile Wireless Devices to a WLAN-3G Access 
+Network\<\/span\>, 
+IEEE International Conference on Communications (ICC), 
+Istanbul, Turkey, Jun. 2006 (acceptance rate: 982/2517=39%)
+[ic003_premkumar_kumar06optimum_association_between_3g_wlan.pdf 
+\[pdf\]]. 
+
+\[C05\] 
+[index.html K. Premkumar] and S. H. Srinivasan, 
+\<span style=\"color: OrangeRed\"\>
+Diversity Techniues for Interference Mitigation between IEEE 802.11 
+WLANs and Bluetooth\<\/span\>, 
+IEEE PIMRC, Berlin, Germany, Vol. 3, Sep. 2005
+[ic002_premkumar_srinivasan05interference_mitigation_in_wlan_bluetooth.pdf 
+\[pdf\]]. 
+
+\[C04\] 
+[index.html K. Premkumar], A. Rangarajan, and V. Sharma, 
+\<span style=\"color: OrangeRed\"\>
+Exponential Diversity achieving Spatio-Temporal Power Allocation Scheme 
+for MIMO Fading Channels\<\/span\>, 
+IEEE International Symposium on Information Theory (ISIT), 
+Chicago, IL USA, Jun. - Jul. 2004
+[ic001_premkumar_rangarajan_sharma04exponential_diversity_achieving_power_control.pdf 
+\[pdf\]].
+
+\[C03\] 
+Beuttner M., Jayachandran B., and [index.html K. Premkumar], 
+\<span style=\"color: OrangeRed\"\>
+Design and Analysis of Smart Antennas with Multi User Detection\<\/span\>, 
+Motorola Antenna Symposium, Oct. - Nov. 2002 
+(authors names are in alphabetical order; the soft/hard copy shall not 
+be provided as this is a Motorola classified document).
+
+\[C02\] 
+[index.html K. Premkumar] and A. Chockalingam, 
+\<span style=\"color: OrangeRed\"\>
+Performance of LLC and TCP on GPRS Uplink with RLC Slot Level 
+Retransmission\<\/span\>, 
+National Conference on Communications (NCC), IIT Bombay, Jan. 2002 
+[nc002_premkumar_chockalingam02perf_anal_llc_gprs.pdf \[pdf\]].
+
+\[C01\] 
+[index.html K. Premkumar] and A.Chockalingam, 
+\<span style=\"color: OrangeRed\"\>
+Performance Analysis of RLC\/MAC Protocol in General Packet Radio Service\<\/span\>, 
+National Conference on Communications (NCC), IIT Kanpur, Jan. 2001
+[nc001_premkumar_chockalingam01performance_analysis_rlc_gprs.pdf \[pdf\]].
+
+
+
+
+
+== Theses 
+
+[index.html K. Premkumar], 
+\<span style=\"color: OrangeRed\"\>
+Optimum Event Detection in Wireless Sensor Networks\<\/span\>, 
+PhD Thesis, Indian Institute of Science, Bangalore, India, Nov. 2010 
+[premkumar10phd_thesis.pdf \[pdf\]]. 
+
+[index.html K. Premkumar], 
+\<span style=\"color: OrangeRed\"\>
+Performance Analysis of General Packet Radio Service Protocol 
+Stack\<\/span\>, 
+MS Thesis, Indian Institute of Science, Bangalore, India, Aug. 2001.
+
+
+
+
