@@ -1,37 +1,35 @@
 # jemdoc: menu{MENU}{index.html}, showsource
-= [index.html K. Premkumar]
+
 
 ~~~
-{}{img_left}{prem.jpg}{Portrait of Premkumar}{170}{240}
-*Dr. K. PREMKUMAR* \n
-Associate Professor \n
-[http://www.ssn.edu.in/department-of-info-tech.php Dept. of Information Technology] (IT) \n
-[http://www.ssn.edu.in/ SSN College of Engineering] \n
-Rajiv Gandhi Salai (OMR), Kalavakkam - 603 110 \n 
-Kanchipuram District, Tamil Nadu, INDIA \n 
-Mobile: +91 94980 83621\n  
+{}{img_left}{prem.jpg}{Portrait of Premkumar}{258}{352}
+*PREMKUMAR K. PhD (IISc)* \n
+Assistant Professor \n
+Department of Electronics and Communication Engineering \n
+[http://www.iiitdm.ac.in/ Indian Institute of Information Technology,] \n
+Design and Manufacturing (IIITDM), Kancheepuram \n 
+Chennai - 600 127, INDIA \n
+
+\n
+\n
+
+*E-mail :* {{<img src="email1.jpg" alt="email1" width="120" height="16">}} \n
+*E-mail :* {{<img src="email2.jpg" alt="email2" width="200" height="16">}} \n
+
+*Google Scholar:* [https://scholar.google.com/citations?hl=en&user=grgxGDcAAAAJ&view_op=list_works&authuser=1&sortby=pubdate Google Scholar] \n
+*URL:* [https://k-premkumar.github.io/]\n
 ~~~
 
-== Schedule
-- Teaching Schedule for Jul. 2012-Dec. 2012:  
-  -- Computer Networks (CS2302) 
-  -- Modern Digital Communication Techniques 
-
-- Lecture Hours 
-  -- CS2302:  Tu. 8:00-8:50 AM, We. 9:50-11:30 AM, Th. 2-2:50pm, Fr. 8:50-9:40 AM 
-  -- MDCT:  
-
-== Research Interests
-
-=== Primary Interests
-
-- Resource Allocation in Communication Systems
-- Anonymous Communication
-- Social Networks 
-
-
-=== Secondary Interests
-
-- Investment (portfolio) Theory
-- Machine Learning
-- Randomized Algorithms 
+== Contact
+~~~
+*Dr. K. Premkumar* \n
+Assistant Professor \n
+Department of Electronics and Communication Engineering \n
+[http://www.iiitdm.ac.in/ Indian Institute of Information Technology,] \n
+Design and Manufacturing (IIITDM), Kancheepuram \n 
+Off Vandalur-Kelambakkam Road \n 
+Kandigai \n
+Chennai - 600 127 \n
+Tamil Nadu, INDIA \n
+Tel: 044 - 2747 6300 
+~~~

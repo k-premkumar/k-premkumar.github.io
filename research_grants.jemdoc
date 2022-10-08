@@ -1,0 +1,25 @@
+# jemdoc: menu{MENU}{research_grants.html}, showsource
+= Research Grants
+
+~~~
+*Core Research Grant*: \<span style=\"color: OrangeRed\"\>
++*Detection and Diagnosis of Intentional Electromagnetic Interference Attack on Critical Network*+\<\/span\>
+
+- PI: K. Premkumar
+- co-PI: Prerna Saxena, Saurabh Saxena, P. H. Rao
+- Funding Agency: SERB
+- Duration: 2020-2023
+- Amount: (*\<span style=\"color:green\"\>INR 81.07528 Lakhs\<\/span\>*)
+~~~
+
+~~~
+*DST ICPS Grant*: \<span style=\"color: OrangeRed\"\>
++*Performance Evaluation and Modeling of Multi Agent Based Smart Manufacturing Integrated with
+Swarm Intelligence and IoT*+\<\/span\>
+
+- PI: M. Sreekumar
+- co-PI: K. Premkumar
+- Funding Agency: (ICPS division of) DST
+- Duration: 2018-2021
+- Amount: (*\<span style=\"color:green\"\>INR 35.0 Lakhs\<\/span\>*)
+~~~

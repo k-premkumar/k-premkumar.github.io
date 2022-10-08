@@ -1,5 +1,5 @@
 # jemdoc: menu{MENU}{students.html}, showsource
-= [index.html K. Premkumar] - Students
+= Students who worked with me at IIITDM for their Thesis/Project
 
 ~~~
 {}{raw}
@@ -19,6 +19,78 @@ function toggle() {
 </script>
 ~~~
  
-== ME Students
-- Thomas Valerrian Pasca S. (2011-2013) {{<a id="displayText" href="javascript:toggle();"> Abstract of ME Thesis</a> <div id="toggleText" style="display: none"> <font size="3" color="OrangeRed">
-Resource Allocation in Wireless Networks</font></div>}}
+== PhD 
+- Teena Mary Treesa 
+- Amiya Kumar Mondal 
+- Dony J. Muttath  
+- M. Santhoshkumar
+== MDes\/ME\/MTech 
+
+~~~
+{}{table}{SCI Journals}
+Sl. No.|Year| Student's Name            | Roll No.  | Title of the Thesis  ||
+24  | 2022  | Geeta J.                  | CDS20M006 | ToA and DoA Estimation for Interference in Ultra Wideband Communication Systems || 
+23  | 2022  | Sooraj K.                 | CDS20M003 | Design of Ultra Wideband Communication Systems with Interference Mitigation || 
++22+|+2021+ |+Abirami B.\*+             |+CDS19M001+| +Analysis and Design of Source Antenna and Transmit Pulse for generating IEMI+|| 
+ 21 | 2021  | Anusha K.                 | CDS19M006 |  Ultra Wide Band Attenuators at the Receiver front-end to Mitigate IEMI|| 
+ 20 | 2021  | Arthi S.                  | CDS19M003 |  Analysis and Design of Ultra Wide Band Receive Antenna to Mitigate IEMI|| 
+ 19 | 2021  | Sivaraj K. R.             | CDS19M012 |  Power Allocation of Non Orthogonal Multiple Access|| 
++18+|+2020+ |+Gowri M.\*+               |+CDS18M003+| +Scheduling for Minimum Power Expenditure in Wireless Systems with Reconfiguration Delay+|| 
+17  | 2020  | Abhay Vardhan M.          | ESD15I015 |  Random Access for M2M Communications|| 
+16  | 2020  | Abinaya S.                | ESD15I003 |  Control and Signal Processing for Time-stretched Photonic Analog to Digital Converters|| 
+15  | 2020  | Pranav Kumar S.           | ESD15I010 |  Power Allocation Strategies for Non-Orthogonal Multiple Access|| 
++14+|+2019+ |+Shweta Kumari\*+          |+CDS17M007+| +Distributed Detection in Cognitive Radio Networks+|| 
++13+|+2019+ |+Sowmya K. M.\*+           |+CDS17M004+| +Packet Scheduling for Wireless Mesh Networks+|| 
+12  | 2019  | Jevasankari K. S.         | ESD14I014 |  Packet Scheduling in Wireless Networks|| 
+11  | 2019  | P. Monika Lasya Priya     | ESD14I018 |  Scheduling of Packets with Deadlines in Wireless Networks|| 
++10+|+2019+ |+Sulthana Shams\*+         |+ESD14I013+| +Algorithms for Channel Sensing and Access in Cognitive Radio Networks+|| 
++9+ |+2018+ |+Krishna Anilkumar\*+      | CDS16M004 | +Testbed Implementation for Cognitive Radio+|| 
+ 8  | 2018  | Sundari K.                | CDS16M003 |  Design and Development of an Internet of Things Based Urban Water Management System|| 
+ 7  | 2017  | Divya B.                  | CDS15M001 |  Maximal Influence Spread in Social Networks ||           
++6+ |+2017+ |+Gowshika R.\*+            |+EDS15M004+| +Energy Efficient MAC Protocol for Cognitive Radio Networks+ ||
+ 5  | 2016  | Rajamnanuri Venakta Sravya| CDS14M006 |  Testbed for Cognitive Radio  ||           
+ 4  | 2016  | Shantanu Barai            | CDS14M009 |  Collaborative Target Tracking by Mobile Sensor Nodes||           
+ 3  | 2016  | Subhrajit Barick          | CDS14M013 |  Queue length based Distributed Scheduling in Wireless Network || 
+ 2  | 2016  | Ummadivarapu Manikanta    | EDS14M014 |  Human Emotion Detection from Sequence of Face Images||  
+ 1  | 2016  | Vidyalaxmi Dani           | CDS14M014 |  Learning based MAC Protocols for Cognitive Radio Networks || 
+~~~
+
++\* Awarded Best Project of the year in their Discipline+*
+
+
+. Abinaya S.            (2015-2020) went to ASU, Arizona for PhD
+. +Sulthana Shams+	    (2014-2019) went to TCD, Dublin for PhD
+. +Krishna Anilkumar+   (2016-2018) went to IIT Hyderabad for PhD 
+. Sundari K.            (2016-2018) went to NIT Surathkal for PhD
+. Divya B.              (2015-2017) went to IIT Madras for PhD         
+. Rajamnanuri Venakta Sravya (2014-2016) went to BITS Hyderabad
+. Vidyalaxmi Dani            (2014-2016) went to IIT Madras for PhD
+== BTech
+~~~
+{}{table}{SCI Journals}
+Sl. No. | Year| Student's Name  | Roll No.  | Title of the Thesis  ||
+17      | 2022|Bhanu Teja S.    | EDM18B049 | AI for DNA Analysis to Predict Genetic Diseases || 
+16      | 2022|Nelluri Ujwal Krishna | EDM18B059 | Rumour Spreading in Social Networks ||          
+15      | 2022|Ravi Raj Kumar Puli   | EDM18B043 | Rumour Spreading in Social Networks ||          
+14      | 2021|Dheeraj M.     | EDM17B023 | Statistical Analysis of NIRF||          
+13      | 2020|Devarapalli Bhargav| EDM16B006 | OMR Sheet Evaluation using Image Processing||          
+12      | 2018|Aparnaa R.     | EDM14B003 | Optimized Wireless Transmission Modelling and Scheduling ||          
+11      | 2018|Geetha Sri K.  | EDM14B023 | Optimum Resource Allocation in Cloud Computing ||          
+10      | 2018|Sai Nikhil D.  | EDM14B011 | Speed Detection of a Moving Object from a Recorded Video ||         
+9       | 2018|Srihitha B.    | EDM14B006 | Optimum Resource Allocation in Cloud Computing ||          
+8       | 2018|Udaya Bhanu G. | EDM14B015 | Design of a Simulator for Transportation Networks || 
+7       | 2017|Dhayalan       | COE13B006 | Preventing Ransomware attacks using Mini-filter driver as Tripwire ||          
+6       | 2017|Poojitha M.    | EDM13B017 | Citation Network Analysis ||          
+5       | 2017|Preetika M.    | EDM13B024 | Optimum Sensing in a Cognitive Radio Network||          
+4       | 2017|Ravali D.      | EDM13B006 | Scheduling for Energy Efficient Communication ||          
+3       | 2016|Aaquila Arul Arzela|EDM12B001 | Sequential Algorithms for Sensing in Cognitive Radio Networks ||          
+2       | 2016|Pravallika A.|EDM12B004 | Low Noise Amplifier with SiGe HBT ||          
+1       | 2016|Sravana Chandra K.| EDM12B014 | A Framework for Recommender Systems            
+~~~
+
+. Aparnaa R.            (2014-2018) went to Georgia Tech for MS
+. Aaquila Arul Arzela   (2012-2016) went to ASU for MS
+. Dhayalan B.           (2013-2017) went to University of Amsterdam for MS 
+. Preetika M.           (2013-2017) went to IIM Bangalore  
+. Sravana Chandra K.    (2012-2016) went to Ashoka University for MS
+

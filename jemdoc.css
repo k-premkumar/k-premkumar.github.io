@@ -47,7 +47,7 @@ body {
 }
 
 tt {
-    background: #ffffdd;
+    background: #b2fa98;
 }
 
 pre, tt {
@@ -65,11 +65,12 @@ a:hover {
 }
 
 #layout-menu a.current:link, #layout-menu a.current:visited {
-	color: #022b6d;
+	color: #1208d1;
 	border-bottom: 1px gray solid;
 }
 #layout-menu a:link, #layout-menu a:visited, #layout-menu a:hover {
-	color: #527bbd;
+	color: #000000;
+	color: #042861;
 	text-decoration: none;
 }
 #layout-menu a:hover {
@@ -117,7 +118,7 @@ strong {
 
 
 h1, h2, h3 {
-	color: #ff0000;
+	color: #042861;
 	margin-top: 0.7em;
 	margin-bottom: 0.3em;
 	padding-bottom: 0.2em;
@@ -246,11 +247,14 @@ div.blocktitle {
 
 div.blockcontent {
 	border: 1px solid silver;
+	border: 3px solid black;
+	border: 3px solid Gray;
 	padding: 0.3em 0.5em;
 }
 
 div.infoblock > div.blockcontent {
-	background: #ffffee;
+	background: #f7f6b7;
+	background: #ffffff;
 }
 
 div.blockcontent p + ul, div.blockcontent p + ol {
@@ -335,16 +339,26 @@ img.eqwl {
 	margin: 0;
 }
 
+table.imgtable, table.imgtable td {
+    border: none;
+    text-align: left;
+}
+
 table {
     border: 2px solid black;
     border-collapse: collapse;
+}
+
+table.imgtable, table.imgtable td {
+    border: none;
+    text-align: left;
 }
 
 td {
     padding: 2px;
     padding-left: 0.5em;
     padding-right: 0.5em;
-    text-align: center;
+    text-align: left;
     border: 1px solid gray;
 }
 
